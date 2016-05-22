@@ -7,3 +7,6 @@ The staging area holds the latest committed changes to the document, these chang
 
 How can you use the staging area to make sure you have one commit per logical change?
 I am not sure
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches could help when multiple people are working on separate features of the project, and thus keeping track of individual features would become easier.
