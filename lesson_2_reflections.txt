@@ -4,3 +4,6 @@ After you initialize a repository, git creates a hidden folder with copies of th
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area holds the latest committed changes to the document, these changes are made to the files inside the working directory, and hence the repository does not have a copy of these changes, thus, on comparing the two, the changes can be tracked, and on committing the changes are made to the version in the repository too.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I am not sure
