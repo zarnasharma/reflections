@@ -1,0 +1,8 @@
+I learnt how to use the FC tool. Didnt know about it earlier. Also how to launch notepad.
+
+It gives the power to go back to previous version which may be lost errorneously. also helps us choose which version may work best.
+
+Manual commits may be done untimely, or not be done at all. Auto saved files at least takes care of the forgetfulness of the programmer.
+
+git log gives a log of all changes to the repository in a descending order.
+git diff marks the differences between the two files and highlights the insertions and deletions
